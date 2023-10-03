@@ -1,0 +1,3 @@
+E:/Source1 G:/BackupFolder1 10
+E:/Source2 G:/BackupFolder2 20
+E:/Source3 G:/BackupFolder3 30
